@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AlcoolGasolina</string>
+    <string name="strSaibaMelhorOpcao">Saiba a melhor opção para abastecimento do seu carro!</string>
+    <string name="strInsiraPrecoAlcool">Insira o preço do Álcool!</string>
+    <string name="strInsiraPrecoGasolina">Insira o preço da Gasolina!</string>
+    <string name="strCalcular">Calcular</string>
+    <string name="strMelhorCombustivel">Melhor utilizar %1$s</string>
+    <string name="strInformeTodosOsCampos">Informe todos os campos!</string>
 </resources>
